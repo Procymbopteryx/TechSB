@@ -1,0 +1,2 @@
+function give_a_book:clear_book
+give @s written_book{pages:['["",{"text":"Making Torches","color":"dark_blue","clickEvent":{"action":"run_command","value":"/function give_a_book:table_of_contents"}},{"text":"\\n\\nIf you smelt wooden logs in a furnace, then you will get charcoal. Charcoal can be used in place of coal in most applications such as furnace fuel, campfires, and making torches.","color":"reset"}]'],title:"Technical Skyblock Guidebook",author:"Procymbopteryx and Kitty_McTophat",display:{Lore:['{"text":"Making Torches"}']}}
