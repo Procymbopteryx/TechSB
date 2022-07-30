@@ -1,2 +1,0 @@
-function give_a_book:clear_book
-give @s written_book{pages:['["",{"text":"Powdered Snow","color":"dark_blue","clickEvent":{"action":"run_command","value":"/function give_a_book:table_of_contents"}},{"text":"\\n\\nIf you place an empty cauldron in any biome when it is snowing, then the cauldron will slowly fill up and can be removed with a bucket when full.","color":"reset"}]'],title:"Technical Skyblock Guidebook",author:"Procymbopteryx and Kitty_McTophat",display:{Lore:['{"text":"Powdered Snow"}']}}

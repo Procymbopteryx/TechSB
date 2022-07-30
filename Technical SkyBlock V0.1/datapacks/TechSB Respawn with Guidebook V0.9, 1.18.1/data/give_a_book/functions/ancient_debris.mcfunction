@@ -1,2 +1,0 @@
-function give_a_book:clear_book
-give @s written_book{pages:['["",{"text":"Obtaining Ancient Debris","color":"dark_blue","clickEvent":{"action":"run_command","value":"/function give_a_book:table_of_contents"}},{"text":"\\n\\nAncient Debris can be found in Bastion Remnants along with Netherite Scraps sometimes. This will be much easier if you get an Elytra first and just fly around the Nether with fireworks.","color":"reset"}]'],title:"Technical Skyblock Guidebook",author:"Procymbopteryx and Kitty_McTophat",display:{Lore:['{"text":"Obtaining Ancient Debris"}']}}

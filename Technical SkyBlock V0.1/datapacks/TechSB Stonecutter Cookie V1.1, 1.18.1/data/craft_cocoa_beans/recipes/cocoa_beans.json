@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:cookie"
-    },
-    "result": "minecraft:cocoa_beans",
-    "count": 1
-  }
