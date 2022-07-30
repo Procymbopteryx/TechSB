@@ -1,0 +1,24 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "PQP",
+    "QPQ",
+    "PQP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "Q": [
+      {"item":"quartz_block"},
+      {"item":"quartz_pillar"},
+      {"item":"smooth_quartz"},
+      {"item":"quartz_bricks"},
+      {"item":"chiseled_quartz_block"}
+    ]
+  },
+  "result": {
+    "item": "minecraft:budding_amethyst",
+    "count": 1
+  }
+}
