@@ -1,0 +1,84 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-07-30 16:46:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2022-07-30 16:47:05 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-07-30 16:46:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2022-07-30 16:47:05 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-07-30 16:46:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-07-30 16:46:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2022-10-21 05:08:49 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-07-30 16:46:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-07-30 16:46:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-07-30 16:46:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:eroded_badlands": "2022-10-21 05:41:22 -0600",
+      "minecraft:badlands": "2022-10-21 05:41:21 -0600",
+      "minecraft:savanna_plateau": "2022-10-21 05:38:44 -0600",
+      "minecraft:stony_peaks": "2022-10-21 05:41:00 -0600",
+      "minecraft:sparse_jungle": "2022-10-21 05:07:24 -0600",
+      "minecraft:river": "2022-10-21 05:38:01 -0600",
+      "minecraft:dripstone_caves": "2022-10-21 05:41:17 -0600",
+      "minecraft:forest": "2022-07-30 15:58:19 -0600",
+      "minecraft:lush_caves": "2022-10-21 05:41:12 -0600",
+      "minecraft:desert": "2022-10-21 05:38:49 -0600",
+      "minecraft:jungle": "2022-10-21 05:08:56 -0600",
+      "minecraft:old_growth_birch_forest": "2022-10-21 05:34:36 -0600",
+      "minecraft:deep_dark": "2022-07-30 15:58:21 -0600",
+      "minecraft:meadow": "2022-10-21 05:40:48 -0600",
+      "minecraft:savanna": "2022-10-21 05:17:52 -0600",
+      "minecraft:plains": "2022-07-30 15:59:06 -0600"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
