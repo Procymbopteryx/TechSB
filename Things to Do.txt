@@ -1,0 +1,6 @@
+World 1.0 Needs:
+- Test spawn location/worldborder
+- Remove platform from Portal (easier lighting) (Delete player data/set time again)
+- Proper World Icon/Proper Version Name
+
+- Submit time!
