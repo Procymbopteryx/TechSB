@@ -1,6 +1,35 @@
 World 1.0 Needs:
 - Test spawn location/worldborder
+(/setworld spawn ~ ~ ~, gamerule spawnRadius 0)
+
 - Remove platform from Portal (easier lighting) (Delete player data/set time again)
 - Proper World Icon/Proper Version Name
 
 - Submit time!
+
+
+
+
+
+
+##Team or individual contributor name  
+Procymbopteryx and Kitty_McTophat
+
+##Map title  
+Technical Skyblock
+
+##Map description
+The original skyblock experience but with generating structures and the infinite void, all in vanilla minecraft with datapacks.
+A guidebook is present to help with any information you need to complete every advancement. 
+Description here (200 character max)  
+
+##What do you love the most about your submission?
+That this world generation is possible using just a datapack. I haven't seen anyone else use the custom world generation datapack setups (It was difficult to find proper documentation to actually make it!).
+Notes here (200 character max)
+
+##Link to album of screenshots, video trailer, or walkthrough for complex/long maps  
+Map assets here (one is required)  
+
+##Map download link
+URL here (Avoid using url shorteners or ad-supported links)
+
